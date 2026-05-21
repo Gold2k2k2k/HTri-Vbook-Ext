@@ -92,7 +92,7 @@
     {
       "name": "LuotTruyen",
       "author": "Gold2k2k2k",
-      "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/luottruyen/luottruyen.zip",
+      "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/luottruyen/luottruyen14.zip",
       "version": 7,
       "source": "https:\/\/luottruyen6.com",
       "regexp": "luottruyen\\d*\\.com\\\/truyen-tranh\\\/[^\\\/]+\\\/?$",
