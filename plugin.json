@@ -100,6 +100,32 @@
       "description": "Lướt Truyện - Đọc truyện tranh online",
       "type": "comic",
       "locale": "vi_VN"
+    },
+    {
+      "name": "210CB",
+      "author": "Gold2k2k2k",
+      "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/210cb/210cb.zip",
+      "version": 1,
+      "source": "https://2tencb.pro",
+      "regexp": "2tencb\\.pro\\/read\\/[^\\/]+\\/?$",
+      "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/210cb/icon.png",
+      "description": "210CB - Truyện Hentai Online 18+",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
+    },
+    {
+      "name": "HentaiCube",
+      "author": "Gold2k2k2k",
+      "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/hentaicube.zip",
+      "version": 1,
+      "source": "https://hentaicube.xyz",
+      "regexp": "hentaicube\\.xyz\\/read\\/[^\\/]+\\/?$",
+      "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/icon.png",
+      "description": "HentaiCube - Truyện Hentai Online 18+",
+      "type": "comic",
+      "locale": "vi_VN",
+      "tag": "nsfw"
     }
   ]
 }
