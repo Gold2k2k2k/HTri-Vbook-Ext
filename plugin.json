@@ -12,7 +12,7 @@
       "source": "https://docln.sbs",
       "regexp": "docln\\.sbs\\/truyen\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hako/icon.png",
-      "description": "Đọc truyện trên Hako",
+      "description": "Äá»c truyá»n trÃªn Hako",
       "type": "novel",
       "locale": "vi_VN"
     },
@@ -24,7 +24,7 @@
       "source": "https://storya.click",
       "regexp": "storya\\.click\\/truyen\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/storya/icon.png",
-      "description": "Storya - Đọc truyện online miễn phí",
+      "description": "Storya - Äá»c truyá»n online miá»n phÃ­",
       "type": "novel",
       "locale": "vi_VN"
     },
@@ -35,7 +35,7 @@
       "version": 1,
       "source": "https://www.novel543.com",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/novel543/icon.png",
-      "description": "稷下書院 - Truyện chữ Tiếng Trung online",
+      "description": "ç¨·ä¸æ¸é¢ - Truyá»n chá»¯ Tiáº¿ng Trung online",
       "type": "chinese_novel",
       "locale": "zh_TW"
     },
@@ -47,7 +47,7 @@
       "source": "https://loppytoon.com",
       "regexp": "loppytoon\\.com\\/truyen\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/loppy/icon.png",
-      "description": "LoppyToon - Truyện tranh & tiểu thuyết",
+      "description": "LoppyToon - Truyá»n tranh & tiá»u thuyáº¿t",
       "type": "novel",
       "locale": "vi_VN",
       "tag": "nsfw"
@@ -60,7 +60,7 @@
       "source": "https://truyen.moe",
       "regexp": "truyen\\.moe\\/manga\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/moetruyen/icon.png",
-      "description": "Mòe Truyện - Cộng đồng truyện tranh",
+      "description": "MÃ²e Truyá»n - Cá»ng Äá»ng truyá»n tranh",
       "type": "comic",
       "locale": "vi_VN"
     },
@@ -72,7 +72,7 @@
       "source": "https://shinigamilnteam.com",
       "regexp": "shinigamilnteam\\.com\\/truyen\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/shinigamil/icon.png",
-      "description": "Shinigami - Light Novel & Truyện tranh",
+      "description": "Shinigami - Light Novel & Truyá»n tranh",
       "type": "novel",
       "locale": "vi_VN"
     },
@@ -84,7 +84,7 @@
       "source": "https://mimimoe.moe",
       "regexp": "mimimoe\\.moe\\/g\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/mimimoe/icon.png",
-      "description": "Mimimoe - Truyện tranh 18+",
+      "description": "Mimimoe - Truyá»n tranh 18+",
       "type": "comic",
       "locale": "vi_VN",
       "tag": "nsfw"
@@ -97,7 +97,7 @@
       "source": "https:\/\/luottruyen7.com",
       "regexp": "luottruyen\\d*\\.com\\\/truyen-tranh\\\/[^\\\/]+\\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/luottruyen/icon.png",
-      "description": "Lướt Truyện - Đọc truyện tranh online",
+      "description": "LÆ°á»t Truyá»n - Äá»c truyá»n tranh online",
       "type": "comic",
       "locale": "vi_VN"
     },
@@ -105,11 +105,11 @@
       "name": "210CB",
       "author": "Gold2k2k2k",
       "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/210cb/210cb.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://2tencb.pro",
       "regexp": "2tencb\\.pro\\/read\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/210cb/icon.png",
-      "description": "210CB - Truyện Hentai Online 18+",
+      "description": "210CB - Truyá»n Hentai Online 18+",
       "type": "comic",
       "locale": "vi_VN",
       "tag": "nsfw"
@@ -118,11 +118,11 @@
       "name": "HentaiCube",
       "author": "Gold2k2k2k",
       "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/hentaicube.zip",
-      "version": 1,
+      "version": 2,
       "source": "https://hentaicube.xyz",
       "regexp": "hentaicube\\.xyz\\/read\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/icon.png",
-      "description": "HentaiCube - Truyện Hentai Online 18+",
+      "description": "HentaiCube - Truyá»n Hentai Online 18+",
       "type": "comic",
       "locale": "vi_VN",
       "tag": "nsfw"
