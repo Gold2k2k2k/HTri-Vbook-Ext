@@ -118,7 +118,7 @@
       "name": "HentaiCube",
       "author": "Gold2k2k2k",
       "path": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/hentaicube.zip",
-      "version": 2,
+      "version": 3,
       "source": "https://hentaicube.xyz",
       "regexp": "hentaicube\\.xyz\\/read\\/[^\\/]+\\/?$",
       "icon": "https://raw.githubusercontent.com/Gold2k2k2k/HTri-Vbook-Ext/main/hentaicube/icon.png",
